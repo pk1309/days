@@ -5,3 +5,5 @@ thu
 fri
 sat
 sun
+events
+holidays
