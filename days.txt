@@ -9,3 +9,5 @@ events
 holidays
 fest
 bdays
+foods
+chocolates
